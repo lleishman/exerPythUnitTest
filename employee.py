@@ -1,5 +1,3 @@
-import requests
-
 class Employee:
     
     
