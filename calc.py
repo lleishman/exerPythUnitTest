@@ -15,5 +15,5 @@ def multiply(x, y):
 
 def divide (x, y):
     if y == 0:
-        raise
+        raise 
     return x / y
